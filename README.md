@@ -1,9 +1,9 @@
 # Amazon Number Validator
 # 亚马逊数字检查器
 
-![Amazon Number Validator](https://raw.githubusercontent.com/alexrony21/Amazon-Valid-Number-Checker/refs/heads/main/Amazon_Number_Validator.png)
-![Amazon Number Validator](https://raw.githubusercontent.com/alexrony21/Amazon-Valid-Number-Checker/refs/heads/main/Live_Proof.png)
-![Amazon Number Validator](https://raw.githubusercontent.com/alexrony21/Amazon-Valid-Number-Checker/refs/heads/main/Dead_Proof.png)
+![Amazon Number Validator](https://raw.githubusercontent.com/thepythoncode97/Amazon-Valid-Number-Checker/refs/heads/main/Amazon_Number_Validator.png)
+![Amazon Number Validator](https://raw.githubusercontent.com/thepythoncode97/Amazon-Valid-Number-Checker/refs/heads/main/Live_Proof.png)
+![Amazon Number Validator](https://raw.githubusercontent.com/thepythoncode97/Amazon-Valid-Number-Checker/refs/heads/main/Dead_Proof.png)
 
 ## Features
 ## 功能
